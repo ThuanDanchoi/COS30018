@@ -1,7 +1,4 @@
-# COS30018
-Intelligent Systems
-
-# **Stock Price Prediction System**
+ # **Stock Price Prediction System**
 
 ## Overview
 
