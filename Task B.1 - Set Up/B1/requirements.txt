@@ -1,0 +1,8 @@
+numpy<2.0
+matplotlib
+pandas
+tensorflow
+scikit-learn
+yfinance
+requests_html
+yahoo_fin
